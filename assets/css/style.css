@@ -278,7 +278,7 @@ h6 {
 .navbar a:hover,
 .navbar .active,
 .navbar li:hover > a {
-  color: #56070c;
+  color: #fc0011;
 }
 
 .navbar .dropdown ul {
@@ -693,10 +693,10 @@ section {
 .section-title p {
   margin: 0;
   margin: 0;
-  font-size: 36px;
+  font-size: 14px;
   font-weight: 700;
   font-family: "Playfair Display", serif;
-  color: #56070c;
+  color: #fff;
 }
 
 /*--------------------------------------------------------------
@@ -755,7 +755,8 @@ section {
 # About
 --------------------------------------------------------------*/
 .about {
-  background: url("../img/about-bg.jpg") center center;
+  /*--- (disable) background: url("../img/about-bg.jpg") center center; ---*/
+  background: url("../img/fondonosotros.jpg") center center;
   background-size: cover;
   position: relative;
   padding: 80px 0;
@@ -839,7 +840,7 @@ section {
 .about .content ul i {
   font-size: 20px;
   padding-right: 4px;
-  color: #56070c;
+  color: #ff0011;
 }
 
 .about .content p:last-child {
@@ -870,7 +871,7 @@ section {
 }
 
 .why-us .box h4 {
-  font-size: 24px;
+  font-size: 20px;
   font-weight: 600;
   padding: 0;
   margin: 20px 0;
