@@ -681,7 +681,7 @@ section {
   padding: 0;
   line-height: 1px;
   margin: 0 0 5px 0;
-  letter-spacing: 2px;
+  letter-spacing: 1px;
   text-transform: uppercase;
   color: #000000;
   font-family: "Poppins", sans-serif;
@@ -996,7 +996,7 @@ section {
   font-style: italic;
   font-size: 14px;
   font-family: "Poppins", sans-serif;
-  color: rgba(255, 255, 255, 0.5);
+  color: rgba(0, 0, 0, 0.9);
 }
 
 /*--------------------------------------------------------------
