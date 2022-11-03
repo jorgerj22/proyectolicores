@@ -12,6 +12,10 @@ body {
   color: #fff;
 }
 
+.img-fluid{
+  border-radius: 10px;
+}
+
 a {
   color: #cda45e;
   text-decoration: none;
