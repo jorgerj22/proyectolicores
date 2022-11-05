@@ -12,6 +12,10 @@ body {
   color: #fff;
 }
 
+.titulogoogle {
+  color: #000000;
+}
+
 .img-fluid{
   border-radius: 10px;
 }
@@ -214,7 +218,7 @@ button {
 }
 
 #header .logo img {
-  max-height: 100px;
+  max-height: 140px;
 }
 
 /*--------------------------------------------------------------
@@ -481,7 +485,9 @@ button {
 
 #hero .container {
   padding-top: 110px;
+  
 }
+
 
 @media (max-width: 992px) {
   #hero .container {
@@ -767,6 +773,7 @@ section {
 .about {
   /*--- (disable) background: url("../img/about-bg.jpg") center center; ---*/
   background: url("../img/fondo3.jpg") center center;
+  background-color: #fff;
   background-size: cover;
   position: relative;
   padding: 80px 0;
@@ -1084,6 +1091,10 @@ section {
   left: 0;
   bottom: 0;
 }
+.containers {
+  color: #000000;
+}
+
 
 .events .section-title h2 {
   color: #fff;
@@ -1466,7 +1477,7 @@ section {
   float: left;
   width: 44px;
   height: 44px;
-  background: #56070c;
+  background: #dee2e6;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -1493,6 +1504,7 @@ section {
 .contact .info .email,
 .contact .info .phone {
   margin-top: 40px;
+  color: #000000;
 }
 
 .contact .php-email-form {
