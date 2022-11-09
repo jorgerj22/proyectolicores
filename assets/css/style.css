@@ -1236,24 +1236,24 @@ section {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
-  background: #0c0b09;
+  background: #0c0b09b0;
   border-color: #625b4b;
   color: white;
 }
 
 .book-a-table .php-email-form input::-webkit-input-placeholder,
 .book-a-table .php-email-form textarea::-webkit-input-placeholder {
-  color: #a49b89;
+  color: #f0eee9;
 }
 
 .book-a-table .php-email-form input::-moz-placeholder,
 .book-a-table .php-email-form textarea::-moz-placeholder {
-  color: #a49b89;
+  color: #f0eee9;
 }
 
 .book-a-table .php-email-form input::placeholder,
 .book-a-table .php-email-form textarea::placeholder {
-  color: #a49b89;
+  color: #f0eee9;
 }
 
 .book-a-table .php-email-form input:focus,
@@ -1565,24 +1565,24 @@ section {
   border-radius: 0;
   box-shadow: none;
   font-size: 14px;
-  background: #0c0b09;
+  background: #0c0b09b0;
   border-color: #625b4b;
   color: white;
 }
 
 .contact .php-email-form input::-webkit-input-placeholder,
 .contact .php-email-form textarea::-webkit-input-placeholder {
-  color: #a49b89;
+  color: #ffffff;
 }
 
 .contact .php-email-form input::-moz-placeholder,
 .contact .php-email-form textarea::-moz-placeholder {
-  color: #a49b89;
+  color: #ffffff;
 }
 
 .contact .php-email-form input::placeholder,
 .contact .php-email-form textarea::placeholder {
-  color: #a49b89;
+  color: #ffffff;
 }
 
 .contact .php-email-form input:focus,
@@ -1633,14 +1633,14 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  background: black;
+  background: #0c0b09b0;
   padding: 0 0 30px 0;
   color: #fff;
   font-size: 14px;
 }
 
 #footer .footer-top {
-  background: #0c0b09;
+  background: #0c0b09b0;
   border-top: 1px solid #37332a;
   border-bottom: 1px solid #28251f;
   padding: 60px 0 30px 0;
@@ -1671,7 +1671,7 @@ section {
 #footer .footer-top .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #28251f;
+  background: #0c0b09b0;
   color: #fff;
   line-height: 1;
   padding: 8px 0;
@@ -1737,7 +1737,7 @@ section {
 
 #footer .footer-top .footer-newsletter form {
   margin-top: 30px;
-  background: #28251f;
+  background: #0c0b09b0;
   padding: 6px 10px;
   position: relative;
   border-radius: 50px;
@@ -1748,7 +1748,7 @@ section {
   border: 0;
   padding: 4px;
   width: calc(100% - 110px);
-  background: #28251f;
+  background: #0c0b09b0;
   color: white;
 }
 
