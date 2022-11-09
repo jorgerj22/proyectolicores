@@ -16,7 +16,7 @@ body {
   color: #000000;
 }
 
-.img-fluid{
+.img-fluid {
   border-radius: 10px;
 }
 
@@ -29,7 +29,9 @@ a:hover {
   color: #56070c;
   text-decoration: none;
 }
-
+.fst-italic{
+  font-size: 22px;
+}
 h1,
 h2,
 h3,
@@ -188,7 +190,7 @@ button {
 # Header
 --------------------------------------------------------------*/
 #header {
-  background: rgba(12, 11, 9, 0.6);
+  background: hsl(0deg 0% 0% / 18%);
   border-bottom: 1px solid rgba(12, 11, 9, 0.6);
   transition: all 0.5s;
   z-index: 997;
@@ -405,7 +407,7 @@ button {
   left: 15px;
   padding: 10px 0;
   border-radius: 6px;
-  background-color: #fff;
+  background-color: #adb5bd; 
   overflow-y: auto;
   transition: 0.3s;
 }
@@ -485,9 +487,7 @@ button {
 
 #hero .container {
   padding-top: 110px;
-  
 }
-
 
 @media (max-width: 992px) {
   #hero .container {
@@ -843,6 +843,7 @@ section {
 .about .content h3 {
   font-weight: 600;
   font-size: 26px;
+  
 }
 
 .about .content ul {
@@ -1095,7 +1096,6 @@ section {
   color: #000000;
 }
 
-
 .events .section-title h2 {
   color: #fff;
 }
@@ -1303,7 +1303,7 @@ section {
   font-size: 18px;
   font-weight: bold;
   margin: 10px 0 5px 45px;
-  color: white;
+  color: rgb(5, 5, 5);
 }
 
 .testimonials .testimonial-item h4 {
