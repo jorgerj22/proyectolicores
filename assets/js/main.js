@@ -1,5 +1,5 @@
 /**
- * Author: Jr Creaciones Webs
+ * Author: www.arizonacontenidos.com
  */
 (function () {
   "use strict";

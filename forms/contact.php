@@ -1,6 +1,6 @@
 <?php
   /**
-  
+   * Author: www.arizonacontenidos.com
   */
 
   // Replace contact@example.com with your real receiving email address
