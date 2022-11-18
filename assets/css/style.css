@@ -221,6 +221,7 @@ button {
   z-index: 997;
   padding: 15px 0;
   top: 40px;
+  position: absolute;
 }
 
 #header.header-scrolled {
