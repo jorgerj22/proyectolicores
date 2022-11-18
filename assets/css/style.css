@@ -13,22 +13,24 @@ body {
 }
 
 .dropdown-menu{
-  width: 250px;
+  width: 315px;
   background-color: #e7dede;
   color: rgb(12, 12, 12);
-  position: absolute;
+  font-size: 18px;
 }
 .btn-secondarys {
-  width: 250px;
+  width: 318px;
   background-color: #fff5f5;
   color: #000000;
   border: inset;
   border: outset;
-  position: absolute;
+  font-size: 20px;
+ 
+  
 }
 .dropdown-items {
   color: #000000;
-  position: absolute;
+ 
 }
 
 .titulogoogle {
