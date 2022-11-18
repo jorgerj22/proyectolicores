@@ -16,6 +16,7 @@ body {
   width: 250px;
   background-color: #e7dede;
   color: rgb(12, 12, 12);
+  position: absolute;
 }
 .btn-secondarys {
   width: 250px;
@@ -23,9 +24,11 @@ body {
   color: #000000;
   border: inset;
   border: outset;
+  position: absolute;
 }
 .dropdown-items {
   color: #000000;
+  position: absolute;
 }
 
 .titulogoogle {
