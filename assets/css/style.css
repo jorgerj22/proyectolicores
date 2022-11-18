@@ -12,6 +12,22 @@ body {
   color: #fff;
 }
 
+.dropdown-menu{
+  width: 250px;
+  background-color: #e7dede;
+  color: rgb(12, 12, 12);
+}
+.btn-secondarys {
+  width: 250px;
+  background-color: #fff5f5;
+  color: #000000;
+  border: inset;
+  border: outset;
+}
+.dropdown-items {
+  color: #000000;
+}
+
 .titulogoogle {
   color: #000000;
 }
