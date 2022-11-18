@@ -18,6 +18,7 @@ body {
   background-color: #e7dede;
   color: rgb(12, 12, 12);
   font-size: 18px;
+  position: relative;
 }
 .btn-secondarys {
   font-family: "Open Sans", sans-serif;
@@ -27,6 +28,7 @@ body {
   border: inset;
   border: outset;
   font-size: 20px;
+  position: relative;
  
   
 }
