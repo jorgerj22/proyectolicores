@@ -13,12 +13,14 @@ body {
 }
 
 .dropdown-menu{
+  font-family: "Open Sans", sans-serif;
   width: 315px;
   background-color: #e7dede;
   color: rgb(12, 12, 12);
   font-size: 18px;
 }
 .btn-secondarys {
+  font-family: "Open Sans", sans-serif;
   width: 318px;
   background-color: #fff5f5;
   color: #000000;
